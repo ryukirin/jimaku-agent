@@ -1,0 +1,21 @@
+.env
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+
+# Generated subtitles and local media
+output.*
+*.srt
+*.vtt
+*.ass
+*.mp3
+*.wav
+*.aac
+*.m4a
+*.ogg
+*.flac
+*.mp4
+*.mkv
+*.mov
+*.avi
